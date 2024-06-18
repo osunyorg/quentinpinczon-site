@@ -1,20 +1,4 @@
 ---
 title: Menu principal
-items:
-- title: Projets
-  target: "/projets/"
-  kind: page
-  children: []
-- title: Équipe
-  target: "/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/organisations/"
-  kind: page
-  children: []
-- title: Agenda
-  target: "/agenda/"
-  kind: page
-  children: []
+items: []
 
