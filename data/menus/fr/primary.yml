@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: projets
+  target: "/projets/"
+  kind: page
+  children: []
 
