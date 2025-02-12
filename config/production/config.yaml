@@ -2,6 +2,11 @@
 
 baseURL: https://site.quentinpinczon.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: d40fb438-bc26-4241-a7c1-e7ee0cbb67f7
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
